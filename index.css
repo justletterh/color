@@ -1,0 +1,7 @@
+body{
+    text-align: center;
+}
+a, a:hover, a:visited{
+    text-decoration: initial;
+    color: initial;
+}
